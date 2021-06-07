@@ -19,9 +19,9 @@
 
 <div align="center">
     <h3 align="center">Social Media:</h3>
-    <a href="https://www.instagram.com/ifrankmt/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/instagram--v1.png"/></a>
-    <a href="https://twitter.com/iFrankMT" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/twitter-circled.png"/></a>
-    <a href="mailto:f.montielescrate@uandresbello.edu"><img src="https://img.icons8.com/doodle/48/000000/microsoft-outlook-2019.png"/></a>
+    <a href="https://www.instagram.com/ifrankmt/" target="_blank"><img src="https://img.icons8.com/doodle/64/000000/instagram--v1.png"/></a>
+    <a href="https://twitter.com/iFrankMT" target="_blank"><img src="https://img.icons8.com/doodle/64/000000/twitter-circled.png"/></a>
+    <a href="mailto:f.montielescrate@uandresbello.edu"><img src="https://img.icons8.com/doodle/64/000000/microsoft-outlook-2019.png"/></a>
 </div>
  <div align="center">
     <h3 align="center">Languages and Softwars:</h3>
