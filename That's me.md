@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iFrankMT
+- 👀 I’m interested in Videogames and Music
+- 🌱 I’m currently learning computer engineering
