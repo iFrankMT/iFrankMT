@@ -26,7 +26,7 @@
  <div align="center">
     <h3 align="center">Languages and Softwars:</h3>
     <img src="https://img.icons8.com/color/64/000000/python.png"/>
-    <img src="https://img.icons8.com/wired/64/000000/c.png"/>
+    <img src="https://img.icons8.com/color/64/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/64/000000/css3.png"/>
     <img src="https://img.icons8.com/color/64/000000/javascript.png"/>
