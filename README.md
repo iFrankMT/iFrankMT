@@ -13,7 +13,7 @@
         About me
     </h2>
     <p>
-        Hello, I'm Franco Montiel, A Chilean 20-year-old boy who studies Civil Engineering in Computer Science at the Andrés Bello University, I speak principally spanish but I know english too, I'm here to practice and learn how to program, I like to work in teams, I try to have good communication with my partners, I always try to keep everything organized and help as much as possible, both at work and in emotional support.
+        Hello, I'm Franco Montiel, A Chilean 21-year-old boy who studies Civil Engineering in Computer Science at the Andrés Bello University, I speak principally spanish but I know english too, I'm here to practice and learn how to program, I like to work in teams, I try to have good communication with my partners, I always try to keep everything organized and help as much as possible, both at work and in emotional support.
     </p>
 </div>
 
